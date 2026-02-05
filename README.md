@@ -11,12 +11,8 @@ Computer Science student with an interest in Cybersecurity<br>Learning Python, J
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreshu-bit&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=shreshu-bit&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreshu-bit&layout=compact&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreshu-bit&theme=tokyonight)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=shreshu-bit&theme=tokyonight&no-frame=true)
 
 </div>
