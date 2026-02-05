@@ -7,11 +7,16 @@ Computer Science student with an interest in Cybersecurity<br>Learning Python, J
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shreshu-bit &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shreshu-bit &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreshu-bit &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=shreshu-bit &icon=0&color=1)](https://visitcount.itsvg.in)
+## 📊 My GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreshu-bit&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=shreshu-bit&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreshu-bit&layout=compact&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreshu-bit&theme=tokyonight)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=shreshu-bit&theme=tokyonight&no-frame=true)
+
+</div>
